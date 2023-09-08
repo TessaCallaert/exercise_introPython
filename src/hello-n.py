@@ -4,6 +4,6 @@
 n = int(input("How many times should I loop? "))
 
 # Now, print "Hello, World!" n times.
-for x  in range(n+1):
+for x  in range(n):
     print("Hello, World!")
-    
+
